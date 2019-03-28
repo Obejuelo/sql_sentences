@@ -1,0 +1,1 @@
+## Sentencias básicas y avanzadas para trabajar con SQL
